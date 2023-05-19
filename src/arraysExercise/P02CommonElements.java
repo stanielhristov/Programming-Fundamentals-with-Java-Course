@@ -19,8 +19,5 @@ public class P02CommonElements {
             }
 
         }
-
-
-
     }
 }

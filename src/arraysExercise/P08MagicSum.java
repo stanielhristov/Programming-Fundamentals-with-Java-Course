@@ -22,6 +22,5 @@ public class P08MagicSum {
             }
 
         }
-
     }
 }
