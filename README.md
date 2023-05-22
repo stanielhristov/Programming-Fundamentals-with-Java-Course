@@ -1,1 +1,1 @@
-Here are the tasks that I solved in the course in the course Programming Fundamentals with Java Course at SoftUni. We studied many things from the world of programming, such as arrays, text processing and many more. The course was extremely helpful.
+Here are the tasks that I solved in the course Programming Fundamentals with Java Course at SoftUni. We studied many things from the world of programming, such as arrays, text processing and many more. The course was extremely helpful.
